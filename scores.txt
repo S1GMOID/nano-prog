@@ -1,0 +1,10 @@
+Luca|brood|10
+a|brood|10
+luca|hond|16
+luca|hond|10
+luca|dier|5
+l[]|10
+nanette|brood|8
+1|hond|9
+Luca|brood|9
+Luca|kat|10
